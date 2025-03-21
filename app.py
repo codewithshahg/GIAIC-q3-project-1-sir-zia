@@ -3,11 +3,6 @@ import pandas as pd
 import os
 from io import BytesIO
 
-openpyxl==3.0.10  # or any other version that works for you
-streamlit
-pandas
-
-
 # Set up the page configuration
 st.set_page_config(page_title="Data Sweeper", layout='wide')
 
